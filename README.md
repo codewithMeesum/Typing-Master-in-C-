@@ -101,6 +101,24 @@ handling in developing practical console applications. It allows users to practi
 performance, and track progress. The modular, reusable, and efficient code design meets all 
 academic and functional objectives for a C++ OOP project.
 
+Author:
+Mesum Mukhtar
+
+GitHub: https://github.com/codewithMeesum 
+
+Portfolio: https://codewithMeesum.github.io
+
+⭐ Star this repo if you found it helpful!
+
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/meesummukhtar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/mesummukhtar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mesummukhtar47@gmail.com) 
+
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+
 
 
 
